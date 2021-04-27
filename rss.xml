@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Personaxes RSS</title>
+  <link>https://jjmd1999.github.io/personaxeRSS/index.html</link>
+  <description>Personaxes de Francisco Ibáñez Talavera</description>
+  <image>
+    <url>https://jjmd1999.github.io/personaxeRSS/logo.jpg</url>
+    <title>Logo Mortadelo Y Filemón</title>
+    <link>https://jjmd1999.github.io/personaxeRSS/logo.jpg</link>
+  </image>
+  <item>
+    <title>Mortadelo RSS</title>
+    <link>https://jjmd1999.github.io/personaxeRSS/mortadelo.html</link>
+    <description>Páxina de Mortadelo</description>
+  </item>
+  <item>
+    <title>Filemón RSS</title>
+    <link>https://jjmd1999.github.io/personaxeRSS/filemon.html</link>
+    <description>Páxina de Filemón</description>
+  </item>
+  <item>
+    <title>Sr. Súper RSS</title>
+    <link>https://jjmd1999.github.io/personaxeRSS/sr_super.html</link>
+    <description>Páxina do Sr. Súper</description>
+  </item>
+  <item>
+    <title>Profesor Bacterio RSS</title>
+    <link>https://jjmd1999.github.io/personaxeRSS/profesor_bacterio.html</link>
+    <description>Páxina do Profesor Bacterio</description>
+  </item>
+</channel>
+
+</rss>
